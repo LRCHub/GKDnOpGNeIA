@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "月のワルツ",
+  "base_artist": "Mio Isayama",
+  "createdAt": "2026-03-01T16:48:26.835456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月のワルツ",
+      "artist": "諫山実生",
+      "has_synced": true,
+      "path": "select/01_月のワルツ_諫山実生.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月のワルツ",
+      "artist": "諫山実生",
+      "has_synced": true,
+      "path": "select/02_月のワルツ_諫山実生.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月のワルツ - Moon Waltz",
+      "artist": "Mio Isayama",
+      "has_synced": true,
+      "path": "select/03_月のワルツ_-_Moon_Waltz_Mio_Isayama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_01_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_02_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_03_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_04_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_05_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_06_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_07_月のワルツ_諫山_実生.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "月のワルツ",
+      "artist": "諫山 実生",
+      "has_synced": false,
+      "path": "select/pl_08_月のワルツ_諫山_実生.txt"
+    }
+  ]
+}
